@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/hex-test/static/css/main.2230657e.chunk.css",
-    "main.js": "/hex-test/static/js/main.7fa18e06.chunk.js",
-    "main.js.map": "/hex-test/static/js/main.7fa18e06.chunk.js.map",
+    "main.css": "/hex-test/static/css/main.0e5ffaa3.chunk.css",
+    "main.js": "/hex-test/static/js/main.c6cc6d97.chunk.js",
+    "main.js.map": "/hex-test/static/js/main.c6cc6d97.chunk.js.map",
     "runtime-main.js": "/hex-test/static/js/runtime-main.0b072471.js",
     "runtime-main.js.map": "/hex-test/static/js/runtime-main.0b072471.js.map",
-    "static/js/2.4a5b722c.chunk.js": "/hex-test/static/js/2.4a5b722c.chunk.js",
-    "static/js/2.4a5b722c.chunk.js.map": "/hex-test/static/js/2.4a5b722c.chunk.js.map",
+    "static/js/2.9a4dc87e.chunk.js": "/hex-test/static/js/2.9a4dc87e.chunk.js",
+    "static/js/2.9a4dc87e.chunk.js.map": "/hex-test/static/js/2.9a4dc87e.chunk.js.map",
     "index.html": "/hex-test/index.html",
-    "precache-manifest.02e7dafa21aa6d354930607f8673f4a7.js": "/hex-test/precache-manifest.02e7dafa21aa6d354930607f8673f4a7.js",
+    "precache-manifest.0e757e24e0330c020d3a12e8658e3d38.js": "/hex-test/precache-manifest.0e757e24e0330c020d3a12e8658e3d38.js",
     "service-worker.js": "/hex-test/service-worker.js",
-    "static/css/main.2230657e.chunk.css.map": "/hex-test/static/css/main.2230657e.chunk.css.map",
-    "static/js/2.4a5b722c.chunk.js.LICENSE.txt": "/hex-test/static/js/2.4a5b722c.chunk.js.LICENSE.txt",
+    "static/css/main.0e5ffaa3.chunk.css.map": "/hex-test/static/css/main.0e5ffaa3.chunk.css.map",
+    "static/js/2.9a4dc87e.chunk.js.LICENSE.txt": "/hex-test/static/js/2.9a4dc87e.chunk.js.LICENSE.txt",
     "static/media/Footer.css": "/hex-test/static/media/background-blue.5f29aa26.png",
     "static/media/background.png": "/hex-test/static/media/background.dc3f291b.png",
     "static/media/become-a-driver-1.jpg": "/hex-test/static/media/become-a-driver-1.eb15d56f.jpg",
     "static/media/become-a-driver.jpg": "/hex-test/static/media/become-a-driver.04f204c3.jpg",
+    "static/media/building.jpg": "/hex-test/static/media/building.514e12a9.jpg",
     "static/media/contact-us.jpg": "/hex-test/static/media/contact-us.8f267eab.jpg",
     "static/media/customer-resources-1.jpg": "/hex-test/static/media/customer-resources-1.4a4c66e1.jpg",
     "static/media/customer-resources.jpg": "/hex-test/static/media/customer-resources.87583bcb.jpg",
@@ -35,8 +36,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0b072471.js",
-    "static/js/2.4a5b722c.chunk.js",
-    "static/css/main.2230657e.chunk.css",
-    "static/js/main.7fa18e06.chunk.js"
+    "static/js/2.9a4dc87e.chunk.js",
+    "static/css/main.0e5ffaa3.chunk.css",
+    "static/js/main.c6cc6d97.chunk.js"
   ]
 }
