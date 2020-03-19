@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2b6ed0cec669faf615db97fc8fb9a1ef",
+    "revision": "298747877efefbe94fa2911df5dc817e",
     "url": "/hex-test/index.html"
   },
   {
-    "revision": "875414593e89a66a4388",
-    "url": "/hex-test/static/css/main.849196b7.chunk.css"
+    "revision": "95bcb66f9fefcc454dfc",
+    "url": "/hex-test/static/css/main.7b6fdb70.chunk.css"
   },
   {
-    "revision": "f85ebf0ecc9a63938dc6",
-    "url": "/hex-test/static/js/2.9a4dc87e.chunk.js"
+    "revision": "2314e547697fe99d7eb6",
+    "url": "/hex-test/static/js/2.6d7ef179.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/hex-test/static/js/2.9a4dc87e.chunk.js.LICENSE.txt"
+    "url": "/hex-test/static/js/2.6d7ef179.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "875414593e89a66a4388",
-    "url": "/hex-test/static/js/main.c6cc6d97.chunk.js"
+    "revision": "95bcb66f9fefcc454dfc",
+    "url": "/hex-test/static/js/main.09e52e35.chunk.js"
   },
   {
     "revision": "606b58187eaf10adc0b3",
