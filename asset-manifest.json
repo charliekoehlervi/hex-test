@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/hex-test/static/css/main.2230657e.chunk.css",
+    "main.js": "/hex-test/static/js/main.e4a3b1bc.chunk.js",
+    "main.js.map": "/hex-test/static/js/main.e4a3b1bc.chunk.js.map",
+    "runtime-main.js": "/hex-test/static/js/runtime-main.0b072471.js",
+    "runtime-main.js.map": "/hex-test/static/js/runtime-main.0b072471.js.map",
+    "static/js/2.4a5b722c.chunk.js": "/hex-test/static/js/2.4a5b722c.chunk.js",
+    "static/js/2.4a5b722c.chunk.js.map": "/hex-test/static/js/2.4a5b722c.chunk.js.map",
+    "index.html": "/hex-test/index.html",
+    "precache-manifest.43811c222ac1f0f6f952694a23f79843.js": "/hex-test/precache-manifest.43811c222ac1f0f6f952694a23f79843.js",
+    "service-worker.js": "/hex-test/service-worker.js",
+    "static/css/main.2230657e.chunk.css.map": "/hex-test/static/css/main.2230657e.chunk.css.map",
+    "static/js/2.4a5b722c.chunk.js.LICENSE.txt": "/hex-test/static/js/2.4a5b722c.chunk.js.LICENSE.txt",
+    "static/media/Footer.css": "/hex-test/static/media/background-blue.5f29aa26.png",
+    "static/media/background.png": "/hex-test/static/media/background.dc3f291b.png",
+    "static/media/become-a-driver-1.jpg": "/hex-test/static/media/become-a-driver-1.eb15d56f.jpg",
+    "static/media/become-a-driver.jpg": "/hex-test/static/media/become-a-driver.04f204c3.jpg",
+    "static/media/contact-us.jpg": "/hex-test/static/media/contact-us.8f267eab.jpg",
+    "static/media/customer-resources-1.jpg": "/hex-test/static/media/customer-resources-1.4a4c66e1.jpg",
+    "static/media/customer-resources.jpg": "/hex-test/static/media/customer-resources.87583bcb.jpg",
+    "static/media/home-1.jpg": "/hex-test/static/media/home-1.238b5a69.jpg",
+    "static/media/home-2.jpg": "/hex-test/static/media/home-2.736364eb.jpg",
+    "static/media/home.jpg": "/hex-test/static/media/home.bea25a30.jpg",
+    "static/media/hsq-1.jpg": "/hex-test/static/media/hsq-1.cfabd1b3.jpg",
+    "static/media/hsq-2.jpg": "/hex-test/static/media/hsq-2.af458a5c.jpg",
+    "static/media/hsq-3.jpg": "/hex-test/static/media/hsq-3.e8568254.jpg",
+    "static/media/hsq.jpg": "/hex-test/static/media/hsq.e7d669c8.jpg",
+    "static/media/logo.png": "/hex-test/static/media/logo.5ff9b5a6.png",
+    "static/media/services-1.jpg": "/hex-test/static/media/services-1.efab5e1e.jpg",
+    "static/media/services-2.jpg": "/hex-test/static/media/services-2.ed5eac2a.jpg",
+    "static/media/services-3.jpg": "/hex-test/static/media/services-3.b2219486.jpg",
+    "static/media/services-4.jpg": "/hex-test/static/media/services-4.e3684a84.jpg",
+    "static/media/services.jpg": "/hex-test/static/media/services.238b5a69.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b072471.js",
+    "static/js/2.4a5b722c.chunk.js",
+    "static/css/main.2230657e.chunk.css",
+    "static/js/main.e4a3b1bc.chunk.js"
+  ]
+}
