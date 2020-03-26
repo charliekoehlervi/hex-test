@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/hex-test/static/css/main.2607e761.chunk.css",
-    "main.js": "/hex-test/static/js/main.8d78c4ca.chunk.js",
-    "main.js.map": "/hex-test/static/js/main.8d78c4ca.chunk.js.map",
+    "main.css": "/hex-test/static/css/main.655028f9.chunk.css",
+    "main.js": "/hex-test/static/js/main.e8f60d5c.chunk.js",
+    "main.js.map": "/hex-test/static/js/main.e8f60d5c.chunk.js.map",
     "runtime-main.js": "/hex-test/static/js/runtime-main.0b072471.js",
     "runtime-main.js.map": "/hex-test/static/js/runtime-main.0b072471.js.map",
     "static/js/2.3943bffc.chunk.js": "/hex-test/static/js/2.3943bffc.chunk.js",
     "static/js/2.3943bffc.chunk.js.map": "/hex-test/static/js/2.3943bffc.chunk.js.map",
     "index.html": "/hex-test/index.html",
-    "precache-manifest.cfd9132bafdda35e0ec610d2972b0fba.js": "/hex-test/precache-manifest.cfd9132bafdda35e0ec610d2972b0fba.js",
+    "precache-manifest.7290b1d1fa850c5a6adf35af151b8d00.js": "/hex-test/precache-manifest.7290b1d1fa850c5a6adf35af151b8d00.js",
     "service-worker.js": "/hex-test/service-worker.js",
-    "static/css/main.2607e761.chunk.css.map": "/hex-test/static/css/main.2607e761.chunk.css.map",
+    "static/css/main.655028f9.chunk.css.map": "/hex-test/static/css/main.655028f9.chunk.css.map",
     "static/js/2.3943bffc.chunk.js.LICENSE.txt": "/hex-test/static/js/2.3943bffc.chunk.js.LICENSE.txt",
     "static/media/Footer.css": "/hex-test/static/media/background-blue.5f29aa26.png",
     "static/media/background.png": "/hex-test/static/media/background.dc3f291b.png",
-    "static/media/become-a-driver-1.jpg": "/hex-test/static/media/become-a-driver-1.eb15d56f.jpg",
-    "static/media/become-a-driver.jpg": "/hex-test/static/media/become-a-driver.04f204c3.jpg",
     "static/media/building.jpg": "/hex-test/static/media/building.514e12a9.jpg",
     "static/media/contact-us.jpg": "/hex-test/static/media/contact-us.8f267eab.jpg",
     "static/media/customer-resources-1.jpg": "/hex-test/static/media/customer-resources-1.4a4c66e1.jpg",
     "static/media/customer-resources.jpg": "/hex-test/static/media/customer-resources.87583bcb.jpg",
+    "static/media/driver-resources-1.jpg": "/hex-test/static/media/driver-resources-1.eb15d56f.jpg",
+    "static/media/driver-resources.jpg": "/hex-test/static/media/driver-resources.04f204c3.jpg",
     "static/media/error.png": "/hex-test/static/media/error.87d418fe.png",
     "static/media/home-1.jpg": "/hex-test/static/media/home-1.238b5a69.jpg",
     "static/media/home-2.jpg": "/hex-test/static/media/home-2.736364eb.jpg",
@@ -39,7 +39,7 @@
   "entrypoints": [
     "static/js/runtime-main.0b072471.js",
     "static/js/2.3943bffc.chunk.js",
-    "static/css/main.2607e761.chunk.css",
-    "static/js/main.8d78c4ca.chunk.js"
+    "static/css/main.655028f9.chunk.css",
+    "static/js/main.e8f60d5c.chunk.js"
   ]
 }
