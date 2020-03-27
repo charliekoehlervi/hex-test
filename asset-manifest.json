@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hex-test/static/css/main.31833f2e.chunk.css",
+    "main.css": "/hex-test/static/css/main.a2a08cf3.chunk.css",
     "main.js": "/hex-test/static/js/main.7931100a.chunk.js",
     "main.js.map": "/hex-test/static/js/main.7931100a.chunk.js.map",
     "runtime-main.js": "/hex-test/static/js/runtime-main.0b072471.js",
@@ -8,9 +8,9 @@
     "static/js/2.3943bffc.chunk.js": "/hex-test/static/js/2.3943bffc.chunk.js",
     "static/js/2.3943bffc.chunk.js.map": "/hex-test/static/js/2.3943bffc.chunk.js.map",
     "index.html": "/hex-test/index.html",
-    "precache-manifest.6921b05d36f7f70c42383b85c42f17fb.js": "/hex-test/precache-manifest.6921b05d36f7f70c42383b85c42f17fb.js",
+    "precache-manifest.696fcdd569668155f7b635a86362937a.js": "/hex-test/precache-manifest.696fcdd569668155f7b635a86362937a.js",
     "service-worker.js": "/hex-test/service-worker.js",
-    "static/css/main.31833f2e.chunk.css.map": "/hex-test/static/css/main.31833f2e.chunk.css.map",
+    "static/css/main.a2a08cf3.chunk.css.map": "/hex-test/static/css/main.a2a08cf3.chunk.css.map",
     "static/js/2.3943bffc.chunk.js.LICENSE.txt": "/hex-test/static/js/2.3943bffc.chunk.js.LICENSE.txt",
     "static/media/Footer.css": "/hex-test/static/media/background-blue.5f29aa26.png",
     "static/media/background.png": "/hex-test/static/media/background.dc3f291b.png",
@@ -39,7 +39,7 @@
   "entrypoints": [
     "static/js/runtime-main.0b072471.js",
     "static/js/2.3943bffc.chunk.js",
-    "static/css/main.31833f2e.chunk.css",
+    "static/css/main.a2a08cf3.chunk.css",
     "static/js/main.7931100a.chunk.js"
   ]
 }

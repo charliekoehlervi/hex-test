@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2244fa3a78564675292597f2091742b",
+    "revision": "b694fa22e07aa787261656a31bd16063",
     "url": "/hex-test/index.html"
   },
   {
-    "revision": "0be2e0e0d0c6fcdd40b3",
-    "url": "/hex-test/static/css/main.31833f2e.chunk.css"
+    "revision": "abd69c2760e417c578da",
+    "url": "/hex-test/static/css/main.a2a08cf3.chunk.css"
   },
   {
     "revision": "b8e82b7046769187ac7f",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hex-test/static/js/2.3943bffc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0be2e0e0d0c6fcdd40b3",
+    "revision": "abd69c2760e417c578da",
     "url": "/hex-test/static/js/main.7931100a.chunk.js"
   },
   {
