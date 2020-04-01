@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hex-test/static/css/main.5e3d6a9f.chunk.css",
-    "main.js": "/hex-test/static/js/main.a1e05861.chunk.js",
-    "main.js.map": "/hex-test/static/js/main.a1e05861.chunk.js.map",
+    "main.js": "/hex-test/static/js/main.a6680c88.chunk.js",
+    "main.js.map": "/hex-test/static/js/main.a6680c88.chunk.js.map",
     "runtime-main.js": "/hex-test/static/js/runtime-main.0b072471.js",
     "runtime-main.js.map": "/hex-test/static/js/runtime-main.0b072471.js.map",
     "static/js/2.8478bd73.chunk.js": "/hex-test/static/js/2.8478bd73.chunk.js",
     "static/js/2.8478bd73.chunk.js.map": "/hex-test/static/js/2.8478bd73.chunk.js.map",
     "index.html": "/hex-test/index.html",
-    "precache-manifest.c66e75da0c0da0452c1ae86e9fcb7b72.js": "/hex-test/precache-manifest.c66e75da0c0da0452c1ae86e9fcb7b72.js",
+    "precache-manifest.5003f82b7a337d7b6fdceaec2e70d4fc.js": "/hex-test/precache-manifest.5003f82b7a337d7b6fdceaec2e70d4fc.js",
     "service-worker.js": "/hex-test/service-worker.js",
     "static/css/main.5e3d6a9f.chunk.css.map": "/hex-test/static/css/main.5e3d6a9f.chunk.css.map",
     "static/js/2.8478bd73.chunk.js.LICENSE.txt": "/hex-test/static/js/2.8478bd73.chunk.js.LICENSE.txt",
@@ -40,6 +40,6 @@
     "static/js/runtime-main.0b072471.js",
     "static/js/2.8478bd73.chunk.js",
     "static/css/main.5e3d6a9f.chunk.css",
-    "static/js/main.a1e05861.chunk.js"
+    "static/js/main.a6680c88.chunk.js"
   ]
 }
